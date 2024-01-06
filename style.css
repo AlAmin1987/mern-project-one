@@ -1,0 +1,54 @@
+.card-div{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 15px;
+    gap: 20px;
+    padding: 15px 20px;
+}
+input{
+    margin-top: 15px;
+    border: 2px solid rgb(38, 177, 232);
+    border-radius: 8px;
+    padding:15px 20px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+
+}
+.CheekButton{
+    background-color:crimson;
+    color: white;
+    font-size: 25px;
+    margin-left: 5px;
+    padding:7px;
+    border: 1px solid royalblue;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+.age-section{
+    background-image: url(./bg-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.age-section h1{
+    color:rgb(216, 15, 15);
+    padding-top: 80px;
+    
+}
+footer {
+    background-color: gold;
+    color:red;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    width: 100%;
+    
+}
